@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dillonchappell.com/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Dillon Chappell'
 
 [caches]
   [caches.images]
