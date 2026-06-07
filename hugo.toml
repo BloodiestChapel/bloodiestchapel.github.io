@@ -1,7 +1,7 @@
 baseURL = 'https://dillonchappell.com/'
 locale = 'en-us'
 title = 'Dillon Chappell'
-theme = "ananke"
+theme = "blowfish"
 
 [caches]
   [caches.images]
