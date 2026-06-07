@@ -1,6 +1,7 @@
-baseURL = 'https://bloodiestchapel.github.io/'
+baseURL = 'https://dillonchappell.com/'
 locale = 'en-us'
 title = 'Dillon Chappell'
+theme = "ananke"
 
 [caches]
   [caches.images]
