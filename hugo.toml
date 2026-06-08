@@ -1,34 +1,70 @@
 baseURL = 'https://dillonchappell.com/'
-locale = 'en-us'
+languageCode = 'en-us'
 title = 'Dillon Chappell'
-theme = "blowfish"
+theme = 'PaperMod'
+
+[params]
+  author = "Dillon Chappell"
+  description = "Software Engineer | DevOps | Homelab"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+  [params.homeInfoParams]
+    Title = "Hey, I'm Dillon"
+    Content = "I write about software engineering, infrastructure, and whatever I'm breaking in my homelab."
+
+[[params.socialIcons]]
+  name = "Github"
+  url = "https://github.com/BloodiestChapel"
+
+[[params.socialIcons]]
+  name = "Linkedin"
+  url = "https://www.linkedin.com/in/dillon-chappell/"
+
+[[params.socialIcons]]
+  name = "Bluesky"
+  url = "https://bsky.app/profile/dillonchappell.com"
+
+[[params.socialIcons]]
+  name = "Codepen"
+  url = "https://codepen.io/bloodiestchapel"
+
+[[params.socialIcons]]
+  name = "Soundcloud"
+  url = "https://soundcloud.com/bloody-chapel"
+
+[[params.socialIcons]]
+  name = "Spotify"
+  url = "https://open.spotify.com/user/12745081?si=0607dcbef097453b"
+
+[[params.socialIcons]]
+  name = "Twitch"
+  url = "https://www.twitch.tv/bloodiestchapel"
+
+[[params.socialIcons]]
+  name = "Youtube"
+  url = "https://www.youtube.com/@BloodyChappell"
+
+[[params.socialIcons]]
+  name = "Printables"
+  url = "https://www.printables.com/@BloodyChapel_2851219"
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 
 [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 1
-
-[[menu.main]]
   name = "Blog"
-  url = "/blog/"
-  weight = 2
+  url = "/posts/"
+  weight = 1
 
 [[menu.main]]
   name = "Projects"
   url = "/projects/"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "About"
   url = "/about/"
-  weight = 4
-
-[params]
-  colorScheme = "slate"
-  homepage.layout = "profile"
-  name = "Dillon Chappell"
-  description = "My personal website and blog about software engineering, data engineering, DevOps, and more."
+  weight = 3
