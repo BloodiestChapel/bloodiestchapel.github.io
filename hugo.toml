@@ -10,9 +10,12 @@ theme = 'PaperMod'
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
 
-  [params.homeInfoParams]
-    Title = "Hey, I'm Dillon"
-    Content = "I write about software engineering, infrastructure, and whatever I'm breaking in my homelab."
+[params.profileMode]
+  enabled = false
+
+[params.homeInfoParams]
+  Title = "Hey, I'm Dillon"
+  Content = "I write about software engineering, infrastructure, and whatever I'm breaking in my homelab."
 
 [[params.socialIcons]]
   name = "Github"
