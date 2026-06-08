@@ -30,5 +30,5 @@ theme = "blowfish"
 [params]
   colorScheme = "slate"
   homepage.layout = "profile"
-  author = "Dillon Chappell"
+  name = "Dillon Chappell"
   description = "My personal website and blog about software engineering, data engineering, DevOps, and more."
