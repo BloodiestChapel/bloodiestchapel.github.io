@@ -1,3 +1,9 @@
+---
+title: "My Resume"
+date: 2026-06-09
+draft: false
+tags: ["resume", "about"]
+---
 # DILLON CHAPPELL
 
 chappell.dillon@gmail.com | 847-975-6697 | [linkedin.com/in/dillon-chappell](https://linkedin.com/in/dillon-chappell) | [github.com/BloodiestChapel](https://github.com/BloodiestChapel) | Kenosha, WI
