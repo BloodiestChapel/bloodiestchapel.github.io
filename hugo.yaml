@@ -61,5 +61,5 @@ menu:
       url: "/about/"
       weight: 3
     - name: "Resume"
-      url: "/resume.md"
+      url: "/resume/"
       weight: 3
