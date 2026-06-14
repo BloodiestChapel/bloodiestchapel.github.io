@@ -1,0 +1,115 @@
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/configuration/#theme-parameters
+
+colorScheme = "congo"
+defaultAppearance = "dark"  # or "light", your call
+autoSwitchAppearance = true
+
+description = "Software Engineer | DevOps | Homelab"
+
+[[author.social]]
+  [author]
+    name = "Dillon Chappell"
+    image = "img/avatar.jpg"
+    headline = "Software Engineer | DevOps | Homelab"
+    bio = "I write about software engineering, infrastructure, and whatever I'm breaking in my homelab."
+
+  [[author.links]]
+    github = "https://github.com/BloodiestChapel"
+  [[author.links]]
+    linkedin = "https://www.linkedin.com/in/dillon-chappell/"
+  [[author.links]]
+    bluesky = "https://bsky.app/profile/dillonchappell.com"
+  [[author.links]]
+    codepen = "https://codepen.io/bloodiestchapel"
+  [[author.links]]
+    soundcloud = "https://soundcloud.com/bloody-chapel"
+  [[author.links]]
+    spotify = "https://open.spotify.com/user/12745081?si=0607dcbef097453b"
+  [[author.links]]
+    twitch = "https://www.twitch.tv/bloodiestchapel"
+  [[author.links]]
+    youtube = "https://www.youtube.com/@BloodyChappell"
+
+defaultThemeColor = "#FFFFFF"
+
+enableSearch = false
+enableCodeCopy = false
+enableImageLazyLoading = true
+enableImageWebp = true
+
+# robots = ""
+fingerprintAlgorithm = "sha256"
+
+[header]
+  layout = "basic" # valid options: basic, hamburger, hybrid, custom
+  # logo = "img/logo.jpg"
+  # logoDark = "img/dark-logo.jpg"
+  showTitle = true
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = false
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"  # closest analog to PaperMod's homeInfoParams
+  showRecent = true
+  recentLimit = 5
+
+
+[article]
+  showAuthor = true
+  showDate = true
+  showReadingTime = true
+  showDateUpdated = false
+  showBreadcrumbs = false
+  showDraftLabel = true
+  showEdit = false
+  # editURL = "https://github.com/username/repo/"
+  editAppendPath = true
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showTableOfContents = false
+  showTaxonomies = false
+  showWordCount = false
+  showComments = false
+  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing", "bluesky"]
+
+[list]
+  showBreadcrumbs = false
+  showSummary = false
+  showTableOfContents = false
+  showTaxonomies = false
+  groupByYear = true
+  paginationWidth = 1
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+  showTermCount = true
+
+[fathomAnalytics]
+  # site = "ABC12345"
+
+[plausibleAnalytics]
+  # domain = "blog.yoursite.com"
+  # event = ""
+  # script = ""
+
+#[umamiAnalytics]
+#  site = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+#  region = "eu"  # can be either "eu" or "us"
+
+[verification]
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""
