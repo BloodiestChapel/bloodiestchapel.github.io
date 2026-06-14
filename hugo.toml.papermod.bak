@@ -1,7 +1,7 @@
 baseURL = 'https://dillonchappell.com/'
 languageCode = 'en-us'
 title = 'Dillon Chappell'
-theme = 'PaperMod'
+theme = 'Congo'
 
 [params]
   author = "Dillon Chappell"
