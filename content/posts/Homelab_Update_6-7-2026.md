@@ -3,6 +3,10 @@ title: "How's My Homelab?"
 date: 2026-06-07
 draft: false
 tags: ["homelab", "devops"]
+cover:
+    image: "/images/banner.jpg"
+    alt: "Banner"
+    relative: false
 ---
 
 # Foreword

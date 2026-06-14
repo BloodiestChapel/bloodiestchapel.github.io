@@ -13,6 +13,9 @@ params:
   cover:
     image: "/images/banner.jpg"
     responsiveImages: true
+    alt: "Cover banner image"
+    relative: false
+    hidden: false
 
   profileMode:
     enabled: true

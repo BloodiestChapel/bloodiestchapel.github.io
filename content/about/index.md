@@ -1,6 +1,10 @@
 ---
 title: "About"
 layout: "about"   # or just omit this for default layout
+cover:
+    image: "/images/banner.jpg"
+    alt: "Banner"
+    relative: false
 ---
 
 I'm Dillon, a datacenter technician and aspiring software engineer 

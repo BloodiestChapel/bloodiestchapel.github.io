@@ -3,6 +3,10 @@ title: "Traefik"
 date: 2026-06-09
 draft: false
 tags: ["homelab", "traefik"]
+cover:
+    image: "/images/banner_traefik.jpg"
+    alt: "Banner"
+    relative: false
 ---
 This will my first project post. As such I'm posting about something which has become particularly important in my homelab. It's called ***Traefik*** and has helped me organize everything in my homelab and make sure things are secure.
 

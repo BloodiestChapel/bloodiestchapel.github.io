@@ -3,6 +3,10 @@ title: "My Resume"
 date: 2026-06-09
 draft: false
 tags: ["resume", "about"]
+cover:
+    image: "/images/banner.jpg"
+    alt: "Banner"
+    relative: false
 ---
 # DILLON CHAPPELL
 
