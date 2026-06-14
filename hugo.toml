@@ -57,10 +57,6 @@ theme = 'PaperMod'
   name = "Printables"
   url = "https://www.printables.com/@BloodyChapel_2851219"
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
 [[menu.main]]
   name = "Blog"
   url = "/posts/"
