@@ -10,6 +10,10 @@ theme = 'PaperMod'
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
 
+[params.cover]
+  image = "static/images/banner.jpg"
+  responsiveImages = true
+
 [params.profileMode]
   enabled = false
 
