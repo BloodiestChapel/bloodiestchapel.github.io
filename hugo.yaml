@@ -11,7 +11,7 @@ params:
   ShowBreadCrumbs: true
 
   cover:
-    image: "/images/banner.jpg"
+    image: "/static/images/banner.jpg"
     responsiveImages: true
 
   profileMode:
@@ -20,7 +20,7 @@ params:
   homeInfoParams:
     Title: "Hey, I'm Dillon"
     Content: "I write about software engineering, infrastructure, and whatever I'm breaking in my homelab."
-    imageUrl: "/images/profile.png"
+    imageUrl: "/static/images/profile.png"
     imageAlt: "Dillon Chappell"
     imageWidth: 120
     imageHeight: 120
