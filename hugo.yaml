@@ -11,21 +11,20 @@ params:
   ShowBreadCrumbs: true
 
   cover:
-    image: "/static/images/banner.jpg"
+    image: "/images/banner.jpg"
     responsiveImages: true
 
   profileMode:
-    enabled: True
-
-  homeInfoParams:
-    Title: "Hey, I'm Dillon"
-    Content: "I write about software engineering, infrastructure, and whatever I'm breaking in my homelab."
-    imageUrl: "/static/images/profile.png"
-    imageAlt: "Dillon Chappell"
+    enabled: true
+    title: "Hey, I'm Dillon"
+    subtitle: "I write about software engineering, infrastructure, and whatever I'm breaking in my homelab."
+    imageUrl: "/images/profile.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: "Dillon Chappell"
     imageRounded: true
+
+  # homeInfoParams:
 
   socialIcons:
     - name: "Github"
