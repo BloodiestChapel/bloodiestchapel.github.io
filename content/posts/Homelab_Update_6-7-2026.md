@@ -4,7 +4,7 @@ date: 2026-06-07
 draft: false
 tags: ["homelab", "devops"]
 cover:
-    image: "/images/banner.jpg"
+    image: "/images/banner_homeassistant.png"
     alt: "Banner"
     relative: false
 ---
