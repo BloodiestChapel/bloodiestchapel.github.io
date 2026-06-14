@@ -1,0 +1,57 @@
+baseURL: 'https://dillonchappell.com/'
+languageCode: 'en-us'
+title: 'Dillon Chappell'
+theme: 'PaperMod'
+
+params:
+  author: "Dillon Chappell"
+  description: "Software Engineer | DevOps | Homelab"
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+
+  cover:
+    image: "static/images/banner.jpg"
+    responsiveImages: true
+
+  profileMode:
+    enabled: false
+
+  homeInfoParams:
+    Title: "Hey, I'm Dillon"
+    Content: "I write about software engineering, infrastructure, and whatever I'm breaking in my homelab."
+
+  socialIcons:
+    - name: "Github"
+      url: "https://github.com/BloodiestChapel"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/dillon-chappell/"
+    - name: "Bluesky"
+      url: "https://bsky.app/profile/dillonchappell.com"
+    - name: "Codepen"
+      url: "https://codepen.io/bloodiestchapel"
+    - name: "Soundcloud"
+      url: "https://soundcloud.com/bloody-chapel"
+    - name: "Spotify"
+      url: "https://open.spotify.com/user/12745081?si=0607dcbef097453b"
+    - name: "Twitch"
+      url: "https://www.twitch.tv/bloodiestchapel"
+    - name: "Youtube"
+      url: "https://www.youtube.com/@BloodyChappell"
+    - name: "Printables"
+      url: "https://www.printables.com/@BloodyChapel_2851219"
+
+menu:
+  main:
+    - name: "Blog"
+      url: "/posts/"
+      weight: 3
+    - name: "Projects"
+      url: "/projects/"
+      weight: 3
+    - name: "About"
+      url: "/about/"
+      weight: 3
+    - name: "Resume"
+      url: "/resume/"
+      weight: 3
