@@ -15,11 +15,17 @@ params:
     responsiveImages: true
 
   profileMode:
-    enabled: false
+    enabled: True
 
   homeInfoParams:
     Title: "Hey, I'm Dillon"
     Content: "I write about software engineering, infrastructure, and whatever I'm breaking in my homelab."
+    imageUrl: "static/images/profile.png"
+    imageAlt: "Dillon Chappell"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Dillon Chappell"
+    imageRounded: true
 
   socialIcons:
     - name: "Github"
