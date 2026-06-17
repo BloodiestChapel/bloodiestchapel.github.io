@@ -30,14 +30,14 @@ Software developer and infrastructure engineer with a B.S. in Computer Science a
 
 ## EXPERIENCE
 
-### Datacenter Technician/Backup Lead, Level 3 · Microsoft — Fairwater Datacenter
+### Datacenter Technician/Second-In-Command, Level 3 · Microsoft — Fairwater Datacenter
 *2025 – Present*
 
 - Provision and deploy GPU servers at hyperscale, configuring hardware and validating functionality within rapid-deployment SLAs.
 - Manage structured copper and fiber cabling across large production datacenter footprints, maintaining compliance with cabling standards.
 - Perform hardware lifecycle operations — NIC, drive, and memory replacement/installation — plus component auditing to ensure asset accuracy.
 - Support critical environment operations, including monitoring and maintaining mechanical and electrical infrastructure to ensure uptime and safety compliance.
-- Serve as backup lead across all operational areas, stepping in to direct daily activities and decision-making in the lead's absence.
+- Serve as second-in-command lead across all operational areas, stepping in to direct daily activities and decision-making in the lead's absence.
 - Troubleshoot and resolve infrastructure tickets in a high-velocity environment, directly supporting compute availability for cloud workloads.
 
 ### Technical Support Admin II · Advocate Condell Medical Center
