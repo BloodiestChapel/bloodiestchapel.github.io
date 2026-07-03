@@ -20,7 +20,7 @@ Well, I feel like I must be somewhere in the middle of this curve (probably beca
 
 # Hubris
 ---
-Let's talk about my hubris. I buy printer. I get app for printer. I click print. It work. Great! That should be enough! Not for me. My psychotic brain started looking more into how much this can help with the house. I started designing brackets, spacers, caps, holders (all of which I really should upload to printables), and printing them out. I then start looking into material strength and which orientations work best for different prints. I actually *test* the same print out with different materials, printing orientations, infill patterns and before I knew it, the hobby started to look like yet another meme: 
+Let's talk about my hubris. I buy printer. I get app for printer. I click print. It work. Great! That should be enough! Not for me. My psychotic brain started looking more into how much this can help with the house. I started designing brackets, spacers, caps, holders (all of which I really should upload to printables), and printing them out. I then start looking into material strength and which orientations work best for different prints. I actually *test* the same print out with different materials, printing orientations, infill patterns and before I knew it, the hobby started to look like the iceberg meme. I couldn't find one specifically about 3D printing, so jut imagine it.
 
 
 

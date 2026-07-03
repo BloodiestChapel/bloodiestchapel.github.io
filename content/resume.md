@@ -12,7 +12,7 @@ tags: ["resume", "about"]
 
 chappell.dillon@gmail.com | 847-975-6697 | [linkedin.com/in/dillon-chappell](https://linkedin.com/in/dillon-chappell) | [github.com/BloodiestChapel](https://github.com/BloodiestChapel) | Kenosha, WI
 
-Software developer and infrastructure engineer with a B.S. in Computer Science and hands-on experience spanning cloud-scale datacenters, containerized homelab environments, and full-stack development. Proficient in Python, Java, C++, and JavaScript, with practical depth in Linux, Docker, CI/CD tooling, and network automation. Currently deploying GPU server infrastructure at Microsoft scale; previously maintained 1,000+ endpoint environments under ITSM workflows. Bilingual (English / Spanish).
+Software developer and infrastructure engineer with a B.S. in Computer Science and hands-on experience spanning enterprise datacenter operations, containerized homelab environments, and full-stack development. Proficient in Python, Java, C++, and JavaScript, with practical depth in Linux, Docker, CI/CD tooling, and network automation. Currently working as an independent IT contractor, delivering NAS deployments, network infrastructure builds, hardware repair, and general IT support for local clients; previously maintained 1,000+ endpoint environments under ITSM workflows and provisioned GPU server infrastructure at cloud datacenter scale. Bilingual (English / Spanish).
 
 ---
 
@@ -30,7 +30,7 @@ Software developer and infrastructure engineer with a B.S. in Computer Science a
 
 ## EXPERIENCE
 
-### Datacenter Technician/Second-In-Command, Level 3 · Microsoft — Fairwater Datacenter
+### Datacenter Technician III/Second-In-Command · Microsoft — Fairwater Datacenter
 *2025 – Present*
 
 - Provision and deploy GPU servers at hyperscale, configuring hardware and validating functionality within rapid-deployment SLAs.
@@ -96,6 +96,7 @@ College of Lake County, Grayslake, IL
 
 ## CERTIFICATIONS & ADDITIONAL
 
+- CCNA (In Progress)
 - HackerRank SQL (Basic) Certificate
 - freeCodeCamp Responsive Web Design Certificate
 - IBM Master the Mainframe 2020 — Level 2
