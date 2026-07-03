@@ -1,5 +1,5 @@
 # dillonchappell.com
-This will be my repository for my website. For now the organization will beas follows:
+This will be my repository for my website. For now the organization will be as follows:
 
 ### About:
 ---
