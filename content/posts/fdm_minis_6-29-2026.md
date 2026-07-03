@@ -9,7 +9,7 @@ cover:
     relative: false
 ---
 # Foreword
----
+
 The main reason I originally bought a 3d printer was to print parts for the house. We had just moved in less than a year prior and I realized there were so many small things which to me cost way too much money for what they were, so I went looking for a solution. That solution, obviously, turned out to be a 3d printer. The Bambu Lab A1, specifically. Then I got into it and this is where the insanity insues.
 
 3D printing is one of the most amazingly frustrating things I've gotten into. It got my brain back into CADD-mode, made for some fun pass time, and was an easy way to give gifts... At first. You know that meme with the bell curve? This one:
@@ -18,19 +18,29 @@ The main reason I originally bought a 3d printer was to print parts for the hous
 
 Well, I feel like I must be somewhere in the middle of this curve (probably because I made this meme for myself in 2 minutes) because I am currently suffering by my own hand. I want to print minis. I want to print brackets. I want to make new models for my printer. The list goes on. And it all seems to get harder the more I do it. That being said, it's some of the most fun I've had in a long time.
 
-# Hubris
----
-Let's talk about my hubris. I buy printer. I get app for printer. I click print. It work. Great! That should be enough! Not for me. My psychotic brain started looking more into how much this can help with the house. I started designing brackets, spacers, caps, holders (all of which I really should upload to printables), and printing them out. I then start looking into material strength and which orientations work best for different prints. I actually *test* the same print out with different materials, printing orientations, infill patterns and before I knew it, the hobby started to look like the iceberg meme. I couldn't find one specifically about 3D printing, so jut imagine it.
+# The Hubris
+
+Let's talk about my hubris. I buy printer. I get app for printer. I click print. It work. Great! That should be enough! Not for me. My psychotic brain started looking more into how much this can help with the house. I started designing brackets, spacers, caps, holders (all of which I really should upload to printables), and printing them out. I then start looking into material strength and which orientations work best for different prints. I actually *test* the same print out with different materials, printing orientations, infill patterns and before I knew it, the hobby started to look like the iceberg meme. I couldn't find that one specifically about 3D printing, so jut imagine it.
 
 
+# The Reckoning
+Now that you're in an imaginey(?) mood, imagine this: Supports destroying entire bits of the print, tiny spears or knives, or other details snapping off while I remove the supports. Imagine my mood when I realised some details of the print were roughly the size of the layer lines and it completely removes any detail that would have been there. I was a bit in over my head. At this point, I decide I've suffered enough and I now am turning to my favorite university; YU, Youtube University.
 
+# The Community
+The amount of knowledge and easy to grasp lessons was a godsend. Lucky for me (current me, not past me) the community has already done a lot of the heavy lifting here. There are plenty of printing profiles, plugins, specific filament recommendations, and tutorials. I'll mention a few of them here and I am surely not going to address them all. Apologies in advance:
 
+## Lychee Slicer:
+  - 
+## Blender
+  - 
+## Resin2FDM:
+  - This particular plugin works in blender. The general idea is that you do not want regular auto generated supports when 3D printing a miniature. The ideal situation is you want resin supports, but the issue is 
 
 
 
 
 # Structure
----
+
 1. The hubris — You have a Bambu, you print everything else great, how hard can a 28mm goblin be?
 2. The reckoning — Supports eating detail, tiny spears snapping off during cleanup, the cursed moment you realize FDM layer lines are roughly the size of a dwarf's beard hair
 3. The community rabbit hole — How you found your way to things like Lychee/Chitubox profiles tuned for FDM, community-designed "FDM-friendly" mini files (chunky bases, thickened details, presupported STLs optimized for FFF), and whatever workflow you've landed on
