@@ -4,7 +4,7 @@ date: 2026-07-06
 draft: false
 tags: ["3d printing", "fdm", "bambu", "dnd", "hobbies"]
 cover:
-    image: "/images/banner_fdm_printing.png"
+    image: "/images/banner_fdm_printing.jpg"
     alt: "Banner"
     relative: false
 ---
