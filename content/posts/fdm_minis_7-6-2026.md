@@ -14,7 +14,7 @@ The main reason I originally bought a 3d printer was to print parts for the hous
 
 3D printing is one of the most amazingly frustrating things I've gotten into. It got my brain back into CADD-mode, made for some fun pass time, and was an easy way to give gifts... At first. You know that meme with the bell curve? This one:
 
-![3D Printing Bell Curve Meme](/static/images/3d_printing_meme.jpg)
+![3D Printing Bell Curve Meme](/images/3d_printing_meme.jpg)
 
 Well, I feel like I must be somewhere in the middle of this curve (probably because I made this meme for myself in 2 minutes) because I am currently suffering by my own hand. I want to print minis. I want to print brackets. I want to make new models for my printer. The list goes on. And it all seems to get harder the more I do it. That being said, it's some of the most fun I've had in a long time.
 
