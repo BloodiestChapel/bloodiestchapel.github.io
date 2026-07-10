@@ -30,7 +30,7 @@ Software developer and infrastructure engineer with a B.S. in Computer Science a
 
 ## EXPERIENCE
 
-### Datacenter Technician III/Second-In-Command · Microsoft — Fairwater Datacenter
+### Datacenter Technician III/Second-In-Command · Microsoft via TEKsystems — Fairwater Datacenter
 *2025 – Present*
 
 - Provision and deploy GPU servers at hyperscale, configuring hardware and validating functionality within rapid-deployment SLAs.
