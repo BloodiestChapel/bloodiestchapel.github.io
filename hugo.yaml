@@ -63,6 +63,9 @@ menu:
     - name: "Resume"
       url: "/resume/"
       weight: 3
+    - name: "Contact Me"
+      url: "/contact/"
+      weight: 3
 
 markup:
   goldmark:
