@@ -2,6 +2,12 @@
 title: "Contact Me"
 date: 2026-07-15
 draft: false
+Showreadingtime: false
+Showwordcount: false
+Showbreadcrumbs: false
+Hidemeta: true
+Disableshare: true
+Searchhidden: true
 tags: ["contact", "contact page"]
 layout: "contact"
 ---
