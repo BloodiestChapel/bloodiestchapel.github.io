@@ -12,4 +12,6 @@ tags: ["contact", "contact page"]
 type: "page"
 layout: "contact"
 ---
-I'm always open to connecting whether it's about a role, a project, or just talking shop on homelabs and infrastructure. Reach out below or send a message directly.
+# Contact Me
+
+I'm always open to connecting whether it's about a role, a project, or just talking shop on homelabs and infrastructure. Reach out below on my Github/LinkedIn/your email client or send a message directly with the form below.
